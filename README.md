@@ -9,5 +9,7 @@ Required dependancies:
 - argparse
 - PIL
 
-To initialize, enter the root directory of the project and use the following terminal command
-```python LiteGlass.py```
+To initialize, enter the root directory of the project and use the following terminal command:
+```
+python LiteGlass.py
+```
