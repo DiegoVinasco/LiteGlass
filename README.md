@@ -13,3 +13,5 @@ To initialize, enter the root directory of the project and use the following ter
 ```
 python LiteGlass.py
 ```
+
+[Check out what it looks like so far!](http://s1250.photobucket.com/user/DiegoVinasco/slideshow/LiteGlass%20v2)
