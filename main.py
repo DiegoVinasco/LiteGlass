@@ -60,7 +60,7 @@ class App:
       print "updated weather!"
 
 
-   def getWeather ( self, apikey="8e159274ff1876f6196852067e95e5e9" ):
+   def getWeather ( self, apikey="#####" ):
       """request weather from openweathermap"""
       print "fetching weather..."
 
